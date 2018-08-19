@@ -1,0 +1,3 @@
+export const LOGINCHECK ='LOGINCHECK';
+export const LOGINSUCCESS = "LOGINSUCCESS";
+
